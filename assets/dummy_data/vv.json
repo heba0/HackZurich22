@@ -1,0 +1,54 @@
+{
+  "vvs": [
+    {
+      "id": "1",
+      "name": "test1",
+      "description": "test description",
+      "vv_requirements": [
+        {
+          "name": "role1",
+          "hours": "40",
+          "due_date": "2022-09-30",
+          "skills": "dummy"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "link": "https://www.liveabout.com/how-to-write-job-description-volunteers-will-love-2502599",
+      "name": "Day Chair",
+      "description": "Job Title: Day Chair\n\nPurpose: The Day Chair serves as the receptionist for the Charles County Agency on Aging, supporting the Agency's mission of supporting the elderly population of Charles County. The Day Chair represents the agency to members of the public who visit its offices Monday, Weds, and Friday from 9 a.m. - 4 p.m.\n\nLocation: The Day Chair works in the public reception area of the agency's central office at 567 N. Oak St in Tulsa, OK. \n\nKey Responsibilities:\n\nThe Day Chair answers the phone and directs calls.\nGreets guests and directs them to other offices or locations.\nAnswers questions about the agency and provides forms when necessary.\nPrints out a list of activities that take place that day at the agency's offices and satellite locations.\nMakes reminder phone calls to other volunteers who assigned to projects for the following day.\nOpens the mail and distributes it.\nEnters donations received by mail in the database.\nProofreads brochure copy when time allows.\nAids in the preparation of bulk mailings.\nPrepares correspondence as needed.\nOther duties as assigned.\nReports to Assistant Director of the Charles County Agency on Aging\n\nThe Length of Appointment: The Day Chair serves one day per week for three months. After three months, the Day Chair may be reappointed for another three months at the discretion of the supervisor. After six months, the person who serves as Day Chair may rotate to another position within the agency.\n\nTime Commitment: One day per week (M, W, or F) for six hours (9-12 am and 1-4 pm), for a minimum of three months.\n\nQualifications: Basic knowledge of computer and data entry. Pleasant manner, patience, problem-solving ability, dependability.\n\nSupport: Training for this position will be provided. Also, the Assistant Director will be available for questions and assistance.\n\nAge Requirement: None\n\nDress Code: Business Casual\n\nOther categories you might want to include in a volunteer position description are:\n\nCertifications/licenses required, such as CPR Certification or a Commercial Drivers License.\nDevelopment opportunities, such as training and promotion to other positions. \nSecurity checks required, such as criminal history check or fingerprint check.\nBenefits, such as a certificate of service, free parking, or tuition remission.",
+      "vv_requirements": [
+        {
+          "name": "Day Chair #1",
+          "hours": "6",
+          "duration": "every Monday, 3 months"
+        },
+        {
+          "name": "Day Chair #2",
+          "hours": "6",
+          "duration": "every Wednesday, 3 months"
+        },
+        {
+          "name": "Day Chair #3",
+          "hours": "6",
+          "duration": "every Friday, 3 months"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "link": "https://ubs-helpetica.ch/en/projects/detail/346-biotope-maintanence/?b=/en/projects/overview/%3FcampID%3DSEM-HELPETICA2020-CH-ENG-GOOGLE-SITELINKAKTUELLEPROJEKTE-ANY-voluntary%2520work-p_11354231919_113026747604_472621456764_kwd-16783542",
+      "name": "Biotope maintanence",
+      "image": "https://ubs-helpetica.ch/media/filer_public_thumbnails/filer_public/ed/47/ed4775d3-dee7-40a4-9bc1-1bf5348e1881/20210423_mb_biotoppflege_april.jpg__810x520_q85_crop_subject_location-1807%2C1529_subsampling-2_upscale.jpg",
+      "description": "Make an active contribution to the valuable natural and cultural landscape in Valais! Get actively involved in the preservation and enhancement of nature in the Pfyn-Finges Nature Park!\n\nAt the beginning of October we are looking for volunteers to maintain a varied ecological compensation area in the vineyards of Salgesch. These areas have different habitats with a lot of diversity and are extremely valuable in the otherwise homogeneous vineyards.\n\nTogether with you, we want to carry out ecological maintenance of these areas on October 8. After an introduction to the correct use of the tools, we will be hands on.\n\nHelp to preserve the valuable habitat for many species!",
+      "vv_requirements": [
+        {
+          "name": "Biotope maintanence",
+          "hours": "8",
+          "duration": "8:30 - 16:30, 08.10.2022"
+        }
+      ]
+    }
+  ]
+}
