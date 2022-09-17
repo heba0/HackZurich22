@@ -1,0 +1,9 @@
+joblib
+networkx
+nltk
+numpy
+pandas
+pytest
+sklearn
+spacy
+typing

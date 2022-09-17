@@ -1,0 +1,47 @@
+{
+  "ngos": [
+    {
+      "about": "Grupa MOCOS (MOdelling COronavirus Spread) to międzynarodowy interdyscyplinarny zespół naukowców",
+      "category_list": [
+        {
+          "id": "2713",
+          "name": "Strona internetowa o nauce"
+        }
+      ],
+      "name": "MOCOS",
+      "website": "https://mocos.pl/",
+      "location": {
+        "city": "Wroclaw",
+        "country": "Poland",
+        "street": "Politechnika Wrocławska, bud. C-3, pok. 204",
+        "zip": "50-372"
+      },
+      "fan_count": 95,
+      "id": "108138157774431",
+      "vv": [
+        {
+          "id": "1"
+        },
+        {
+          "id": "2"
+        }
+      ]
+    },
+    {
+      "about": "The volunteering network for more sustainability",
+      "name": "UBS Helpetica",
+      "website": "https://ubs-helpetica.ch/",
+      "location": {
+        "city": "Zürich",
+        "country": "Switzerland",
+        "street": "Europaallee 23",
+        "zip": "8004"
+      },
+      "vv": [
+        {
+          "id": "3"
+        }
+      ]
+    }
+  ]
+}
