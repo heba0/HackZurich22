@@ -2,7 +2,9 @@
   "volunteers": [
     {
       "name": "Marcin Bodych",
-      "id": "5795902377140273",
+      "volunteer_id": 1,
+      "fb_id": "5795902377140273",
+      "job_title": "AI/ML Implementation Lead for EY, Researcher",
       "likes": [
         {
           "name": "MOCOS",
