@@ -37,6 +37,13 @@ We plan two sides of the experience suited for two different group of users: one
 
 We also thought to add nice features to improve the user experience like an ability to talk to potential volunteer leveraging the whatsapp bot so the experience will be the best and the interested person can instantly accept/ reject based on preferences and availability. 
 
+## References
+[figma prototype](https://www.figma.com/file/04LYMt9HBrwp2OcHwHyUu8/HackZurich-2022?node-id=0%3A1)
+
+[slides](https://docs.google.com/presentation/d/1Mexdbd98SMmIZqn5KvacZ5BWgntLuSyD/edit?usp=sharing&ouid=113434312309221824159&rtpof=true&sd=true)
+
+[pitch recording](https://youtu.be/xzUIwHXxf4s)
+
 ## Acknowledges
 We want to thank Zurich Insurance for giving us a nice challenge that directed us to this nice area where we believe the right technology can help
 Also we thank to HackZurich for organizing the great experience both on-site and remotely.
