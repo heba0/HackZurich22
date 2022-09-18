@@ -1,40 +1,130 @@
 {
-  "volunteers": [
-    {
-      "name": "Marcin Bodych",
-      "volunteer_id": 1,
-      "fb_id": "5795902377140273",
-      "job_title": "AI/ML Implementation Lead for EY, Researcher",
-      "likes": [
-        {
-          "name": "MOCOS",
-          "id": "108138157774431",
-          "created_time": "2022-09-17T13:52:29+0000"
-        },
-        {
-          "name": "WWF Schweiz",
-          "id": "107552952619935",
-          "created_time": "2022-09-17T13:52:11+0000"
-        }
-      ],
-      "groups": [
-        {
-          "name": "Hardy WF w domu",
-          "id": "1035957270111950"
-        },
-        {
-          "name": "Data Science World",
-          "id": "315272545240115"
-        },
-        {
-          "name": "Python Machine Learning & Deep Learning",
-          "id": "1583643181679576"
-        },
-        {
-          "name": "Reinforcement Learning",
-          "id": "36085277798"
-        }
-      ]
-    }
-  ]
+	"volunteers": [{
+			"name": "Marcin Bodych",
+			"id": "5795902377140273",
+			"linkedin": [{
+					"education": [{
+							"school": "Wroclaw University of Science and Technology",
+							"degree": "Master's degree, Control Engineering and Robotics",
+							"start_date": "20/09/2012",
+							"end_date": "01/09/2013"
+						},
+						{
+							"school": "Wroclaw University of Science and Technology",
+							"degree": "Engineer's degree, Control Engineering and Robotics",
+							"start_date": "20/09/2018",
+							"end_date": "01/09/2012"
+						}
+					]
+				},
+				{
+					"experience": [{
+							"title": "AI/ML Implementation Lead",
+							"employment_type": "full time",
+							"company_name": "EY",
+							"start_date": "01/02/2019",
+							"end_date": null
+						},
+						{
+							"title": "Software Engineer, Data Scientist",
+							"employment_type": "full time",
+							"company_name": "MOCOS",
+							"start_date": "01/03/2020",
+							"end_date": null
+						}
+					]
+				}
+			],
+			"likes": [{
+					"name": "MOCOS",
+					"id": "108138157774431",
+					"created_time": "2022-09-17T13:52:29+0000"
+				},
+				{
+					"name": "WWF Schweiz",
+					"id": "107552952619935",
+					"created_time": "2022-09-17T13:52:11+0000"
+				}
+			],
+			"groups": [{
+					"name": "Hardy WF w domu",
+					"id": "1035957270111950"
+				},
+				{
+					"name": "Data Science World",
+					"id": "315272545240115"
+				},
+				{
+					"name": "Python Machine Learning & Deep Learning",
+					"id": "1583643181679576"
+				},
+				{
+					"name": "Reinforcement Learning",
+					"id": "36085277798"
+				}
+			]
+		},
+		{
+			"name": "Heba Hussein",
+			"id": "5795902377140273",
+			"linkedin": [{
+					"education": [{
+							"school": "University of Zurich",
+							"degree": "Master's in Physics",
+							"start_date": "20/09/2022",
+							"end_date": "01/12/2024"
+						},
+						{
+							"school": "The American University in Cairo",
+							"degree": "Bachelor's in Computer Science and Physics",
+							"start_date": "01/08/2017",
+							"end_date": "24/01/2021"
+						}
+					]
+				},
+				{
+					"experience": [{
+							"title": "Software Engineer II",
+							"employment_type": "full time",
+							"company_name": "Weaveworks",
+							"start_date": "01/02/2022",
+							"end_date": "01/09/2022"
+						},
+						{
+							"title": "Data Scientist",
+							"employment_type": "full time",
+							"company_name": "Magalix",
+							"start_date": "01/03/2021",
+							"end_date": "31/12/2021"
+						}
+					]
+				}
+			],
+			"likes": [{
+					"name": "Cats",
+					"id": "187688157774431",
+					"created_time": "2022-09-17T13:52:29+0000"
+				},
+				{
+					"name": "Dogs",
+					"id": "107552959879935",
+					"created_time": "2021-09-17T13:52:11+0000"
+				}
+			],
+			"groups": [
+				{
+					"name": "Data Science World",
+					"id": "315272545240115"
+				},
+				{
+					"name": "Python Machine Learning & Deep Learning",
+					"id": "1583643181679576"
+				},
+				{
+					"name": "Reinforcement Learning",
+					"id": "36085277798"
+				}
+			]
+		}
+	]
 }
