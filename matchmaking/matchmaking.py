@@ -27,9 +27,9 @@ class Matchmaking:
         if self.network is None:
             self.network = nx.Graph()
         for vv in self.vvs:
-            self.add_node_to_network(node_type=NodeType.VV, node=VoluntaryVaccancy(vv_id=vv.id))
+            self.add_node_to_network(node_type=NodeType.VV, node=vv)
         for volunteer in self.volunteers:
-            self.add_node_to_network(node_type=NodeType.VOLUNTEER, node=Volunteer(volunteer_id=volunteer.id))
+            self.add_node_to_network(node_type=NodeType.VOLUNTEER, node=volunteer)
 
     def add_edge_to_network(self, vv_id: str, volunteer_id: str) -> None:
         assert vv_id in list(self.network.nodes)
@@ -70,6 +70,8 @@ class Matchmaking:
     @staticmethod
     def similarity_match(ngo_description, v_description, vv_description) -> float:
         opportunity_description = ngo_description + vv_description
+        if len(opportunity_description) == 0 or len(v_description) == 0:
+            return 0.0
         opportunity_embedding = get_embedding(opportunity_description)
         v_embedding = get_embedding(v_description)
         return (label_score(opportunity_embedding, v_embedding) + 1.0) / 2.0
@@ -78,7 +80,7 @@ class Matchmaking:
         vv_description = vv.description
         ngo_parent = self.find_ngo_parent(vv_id=vv.id)
         ngo_description = ngo_parent.about
-        v_description = volunteer.about
+        v_description = volunteer.return_description()
         v_job_title = volunteer.job_title
         vv_job_title = vv.job_title
         v_likes = volunteer.likes

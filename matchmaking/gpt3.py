@@ -11,5 +11,5 @@ def get_embedding(text, model="text-similarity-davinci-001"):
 
 
 def label_score(review_embedding, label_embeddings):
-    return cosine_similarity(review_embedding, label_embeddings[1]) - cosine_similarity(review_embedding,
-                                                                                        label_embeddings[0])
+    similarity = cosine_similarity(review_embedding, label_embeddings)
+    return similarity
