@@ -31,6 +31,13 @@ def after_request(response):
 @app.route('/api/v0', methods=['GET'])
 def home():
     return 'HACKZURICH 2022!'
+
+
+@app.route('/login', methods=['GET'])
+def login():
+    return f'HACKZURICH 2022!'
+
+
 #
 # def get_credentials():
 #

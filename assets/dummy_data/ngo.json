@@ -17,30 +17,25 @@
         "zip": "50-372"
       },
       "fan_count": 95,
-      "id": "108138157774431",
-      "vv": [
-        {
-          "id": "1"
-        },
-        {
-          "id": "2"
-        }
+      "ngo_id": "108138157774431",
+      "voluntary_vaccancy_keys": [
+        "1",
+        "2"
       ]
     },
     {
       "about": "The volunteering network for more sustainability",
       "name": "UBS Helpetica",
       "website": "https://ubs-helpetica.ch/",
+      "ngo_id": "183279481",
       "location": {
         "city": "Zürich",
         "country": "Switzerland",
         "street": "Europaallee 23",
         "zip": "8004"
       },
-      "vv": [
-        {
-          "id": "3"
-        }
+      "voluntary_vaccancy_keys": [
+        "3"
       ]
     }
   ]
