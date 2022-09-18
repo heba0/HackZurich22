@@ -18,4 +18,4 @@
 
 [slides](https://docs.google.com/presentation/d/1Mexdbd98SMmIZqn5KvacZ5BWgntLuSyD/edit?usp=sharing&ouid=113434312309221824159&rtpof=true&sd=true)
 
-[presentation](https://youtu.be/xzUIwHXxf4s)
+[pitch recording](https://youtu.be/xzUIwHXxf4s)
